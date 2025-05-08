@@ -1,3 +1,1 @@
 
-🚀 Tech Stack & Tools
- python
